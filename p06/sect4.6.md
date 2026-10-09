@@ -27,4 +27,4 @@ To better prepare students for working with large codebases as practiced in indu
 
 1. **Practice reading and extending existing systems:** Computer science curricula should provide pre-built frameworks where students must read and understand the existing code before building new features on top of it.
 2. **Emphasize refactoring, design principles, and library integration:** Courses should teach refactoring and architectural principles (like single responsibility) so students learn to break down monolithic code, as well as give practice integrating external libraries into projects.
-3. Enforce clean code practices and or possibly utilize linting early in projects :
+3. Enforce clean code practices and or possibly utilize linting early in projects
