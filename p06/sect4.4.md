@@ -1,10 +1,10 @@
 # Section 4.4: Why: Learning vs. User Needs
 
-Summary by Chi Dung N.
+Summary by Chi Dung Nguyen
 
 # Question 1
 
-My experience working on GoGaucho, a school app designed to help students, was closer to the industry work described in Section 4.4 than to its description of learning-focused school projects. I interviewed students to understand their needs and used their feedback to change the app. Like P10 and P12, this involved understanding users' problems and updating software to address them. Although I was learning through this work, the changes also served real users. My experience shows that learning and meeting user needs can happen together.
+My experience is a mix. In school, my homework usually focuses on following the professor's instructions, completing the required tasks, and demonstrating what I have learned. In industry, the paper describes a different focus: understanding customers' problems and changing software to meet their needs. My work on GoGaucho, a school app designed to help students, was closer to that industry experience. I interviewed students and used their feedback to change the app. Unlike homework, this work involved responding to real users' needs rather than only meeting a professor's requirements.
 
 # Question 2
 
@@ -12,4 +12,4 @@ A major difference was how much industry work centered on customers. Four partic
 
 # Question 3
 
-Based on the paper's discussion of limited emphasis on interview training, students could practice preparing for and conducting user interviews. They could learn to ask open-ended questions and confirm their understanding before proposing a solution. My own suggestion is to include projects for real users where students update an app based on feedback and then check whether the changes helped. This connects to my GoGaucho experience and would give students practice combining programming skills with understanding and responding to user needs.
+An idea drawn from the paper is to practice preparing for and conducting user interviews, since it identifies a gap in how much schools emphasize these skills. My own idea is to look at projects from different perspectives by asking friends outside my major to try them and give feedback. For class projects, I try asking students outside my field what they think of my work. Their feedback can help me notice confusing features and consider users' needs beyond the professor's requirements. This would help prepare students to build software for people with different backgrounds.
