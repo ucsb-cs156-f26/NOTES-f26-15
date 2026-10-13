@@ -8,4 +8,6 @@ The paper discusses how the students in the study lacked exposure to tools and s
 
 # Question 2
 
+Developers found version-control for code a foreign concept, as many computing courses did not teach them about Github. They often stressed the importance of knowing how to use a code management tool, as much of software development is heavily dependent on updating and sharing code with a team. Another concept that developers were unaware of was Agile software development practices, where, for example, larger projects are broken into smaller goals and are completed within a time set for a "sprint". Testing was also not discussed in college, since students were often told to program the solution rather than using unit tests to check if the code was working.
+
 # Question 3
