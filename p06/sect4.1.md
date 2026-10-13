@@ -1,5 +1,9 @@
 # Section 4.1: Differences in Scope
 
+# Question 1
+I think that my experience mostly lines up with the paper. Pretty much every class I've taken so far has had really well-defined assignments. In CS 64 the MIPS labs told you exactly what the function had to do, and you'd just keep submitting to the autograder until all the tests passed. CS 130A was similar, the problem was always clearly stated and there was basically one "right" output. That's the same thing P10 was describing where the tests are written for you and you just make them pass.
+
+Where it's more of a mix is outside of regular classes. During my internship, a lot of the work didn't come with a clear spec at all. Sometimes I'd get a task and part of the job was figuring out what the actual problem even was. Same thing with ACM, where we build websites and dashboards for other student clubs. The clubs usually don't know exactly what they want at the start, and they'll change their minds halfway through, so we end up having to scope things ourselves. That matches what the paper says about people learning this stuff from projects outside of school, not from coursework. This is one of the first classes I've had that feels closer to that, since it's a team project and not just a list of tests to pass.
 
 # Question 2
 The main surprise was that requirements in industry are vague and open-ended, while school assignments are narrow and clearly defined (mostly because they have to be easy to grade). P10 said that half the time they don't even know what problem they're solving, which is pretty different from school where the tests are already written.
